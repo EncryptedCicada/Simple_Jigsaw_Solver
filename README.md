@@ -18,7 +18,7 @@ We are essentially splitting the shuffled image back into its constituent parts 
 
 (checked means removed)
 
-- [ ] Only works on grayscale images as of now. Coloured images are converted to grayscale variant when reading.
+- [x] Only works on grayscale images as of now. Coloured images are converted to grayscale variant when reading.
 - [ ] Only works with portrait images as of now. Haven't tested with landscape images and they're pretty much borked.
 - [ ] 8 parted image only. (Was a requirement of the project)
 
