@@ -22,7 +22,7 @@ We are essentially splitting the shuffled image back into its constituent parts 
 - [ ] Only works with portrait images as of now. Haven't tested with landscape images and they're pretty much borked.
 - [ ] 8 parted image only. (Was a requirement of the project)
 
-## Credits
+## Authors
 
 - Me (Duh)
-- [My Friend](https://github.com/sanidhya17N)
+- [My Friend](https://github.com/EncryptedCicada/)
