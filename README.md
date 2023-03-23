@@ -24,5 +24,5 @@ We are essentially splitting the shuffled image back into its constituent parts 
 
 ## Authors
 
-- Me (Duh)
-- [My Friend](https://github.com/EncryptedCicada/)
+- [Encrypted Cicada](https://github.com/EncryptedCicada/)
+- [sanidhya17N](https://github.com/sanidhya17N/)
